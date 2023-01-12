@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+header, section{
+    width: 900px;
+    margin: auto;
+}
+header{
+    display: flex;
+    background-color: rgb(85, 85, 146);
+    color: white;
+}
+p{
+    font-size: 15px;
+}
+
+section{
+    display: flex;
+    height: 800px;
+}
+article{
+    width: 30%;
+    background-color: #00FFFF;
+    max-width: 500px;
+}
+.image-profile{
+    width:30%;    
+} 
+.tittle{
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 20px;
+    max-width: 600px;
+}
+.subtitle{
+    margin-top: 40px;
+    font-weight: 400;
+}
+
+aside{
+    width: 70%;
+    background-color: #F0F8FF;
+}
+div{
+    margin-left: 20px;
+}
+.info-t{
+    margin-top: 40px;
+    height: 230px;
+    max-width: 550px;
+}
+.info-p{
+    margin-top: 30px;
+}
+.info-e{
+    margin-left: 0px;
+}
+
+.skills{
+    margin-left: 0px;
+}
+.info{
+    margin-left: 10px;
+}
+.info-ee{
+    margin-left: 0px;
+}
+.T1{
+    text-align: center;
+}
